@@ -1,5 +1,5 @@
 ## Olá, eu sou Robert 
- - Estou iniciando no mundo da programação agora!
+ - Estou iniciando no mundo da programação por agora!
  
  
 <div align="center">
